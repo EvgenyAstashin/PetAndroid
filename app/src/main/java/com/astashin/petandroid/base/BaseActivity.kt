@@ -1,4 +1,4 @@
-package com.astashin.petandroid
+package com.astashin.petandroid.base
 
 import android.annotation.SuppressLint
 import android.util.Log

@@ -1,7 +1,7 @@
 package com.astashin.petandroid.coroutines
 
 import android.os.Bundle
-import com.astashin.petandroid.BaseActivity
+import com.astashin.petandroid.base.BaseActivity
 import com.astashin.petandroid.R
 
 class CoroutinesActivity : BaseActivity() {
